@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Omen\\Documents\\Lab2\\Employee\\Employee\\Employee\\Employee.csproj": {}
+    "C:\\Users\\Omen\\Documents\\Lab2\\Employee\\Employee\\Employee.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Omen\\Documents\\Lab2\\Employee\\Employee\\Employee\\Employee.csproj": {
+    "C:\\Users\\Omen\\Documents\\Lab2\\Employee\\Employee\\Employee.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Omen\\Documents\\Lab2\\Employee\\Employee\\Employee\\Employee.csproj",
+        "projectUniqueName": "C:\\Users\\Omen\\Documents\\Lab2\\Employee\\Employee\\Employee.csproj",
         "projectName": "Employee",
-        "projectPath": "C:\\Users\\Omen\\Documents\\Lab2\\Employee\\Employee\\Employee\\Employee.csproj",
+        "projectPath": "C:\\Users\\Omen\\Documents\\Lab2\\Employee\\Employee\\Employee.csproj",
         "packagesPath": "C:\\Users\\Omen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Omen\\Documents\\Lab2\\Employee\\Employee\\Employee\\obj\\",
+        "outputPath": "C:\\Users\\Omen\\Documents\\Lab2\\Employee\\Employee\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Omen\\AppData\\Roaming\\NuGet\\NuGet.Config",

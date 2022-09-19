@@ -75,7 +75,7 @@ namespace Employee
                 Console.WriteLine($"Tax: {tax} hryvnias.");
             }
 
-            if (post == 3 && experience <= 5)
+            if (post == 3 && experience >= 5)
             {
                 salary = 170000;
                 tax = salary * 0.18;
